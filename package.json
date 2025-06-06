@@ -1,13 +1,13 @@
 {
   "name": "product-scraper",
   "version": "1.0.0",
-  "description": "Scraping product data with Puppeteer",
+  "description": "Simple product scraper with Puppeteer",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "puppeteer": "^21.3.8",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
   }
 }
